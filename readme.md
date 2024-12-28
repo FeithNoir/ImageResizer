@@ -1,5 +1,7 @@
 # Image Resizer
 
+![Preview of the Image Resizer](assets/screenshot.png)
+
 A responsive web application for resizing images, maintaining aspect ratios, and downloading the resized image. 
 
 ## Features
